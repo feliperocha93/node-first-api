@@ -12,5 +12,6 @@ What I learned from this module
 - how to work with modules
 - how to create http server
 - the logic behind routing system
-- how is get the query params in url
-- how is get the path params in url and pass to route
+- how to get the query params in url
+- how to get the path params in url and pass to route
+- how to get de body request
