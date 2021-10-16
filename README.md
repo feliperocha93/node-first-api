@@ -1,6 +1,6 @@
 # Node First API 📚💻🎓
 This project is a node REST API made without using the Express framework, using the own node modules and a simple ES6 logic. The API basically is a CRUD that keep data in memory.
-It was done in first module of [JStack](https://jstack.com.br/]) course, "First steps in Nodejs", translated from Portugues, *Primeiros passas com Nodejs*.
+It was done in first module of [JStack](https://jstack.com.br/]) course, "First steps in Nodejs", translated from Portuguese, *Primeiros passos com Nodejs*.
     
 ## Running the app 🏃🏼‍♂🔥
 ```
