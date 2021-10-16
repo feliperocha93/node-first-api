@@ -1,17 +1,27 @@
-### Draft
-READ.me will be revised and finalized when I finish the course module.
+# Node First API 📚💻🎓
+This project is a node REST API made without using the Express framework, using the own node modules and a simple ES6 logic. The API basically is a CRUD that keep data in memory.
+It was done in first module of [JStack](https://jstack.com.br/]) course, "First steps in Nodejs", translated from Portugues, *Primeiros passas com Nodejs*.
+    
+## Running the app 🏃🏼‍♂🔥
+```
+$ git clone https://github.com/feliperocha93/node-first-api.git
 
-This project is a node API made without using the Express framework.
+$ cd node-first-api
 
-Using the own node modules and simple js logics, it was created a http server,
-with a routing system that respect the REST best practices
+$ node src/index.js
+```
 
-The project was done in first module of (JStack)[LINK DO CURSO] course, "First steps in Node.js",
+## Goals ⚽🥅
+To know the power of NodeJs, understading how ExpressJs works under the table.
 
-What I learned from this module
-- how to work with modules
-- how to create http server
-- the logic behind routing system
-- how to get the query params in url
-- how to get the path params in url and pass to route
-- how to get de body request
+## Main Lessons 📑👩🏿‍🎓
+- how to work with js modules
+- how to create http server using http module
+- the logic behind a routing system
+- how to get query parameters in url
+- how to get path parameters in url and pass it to route
+- how to get the request body
+
+##
+
+<img align="center" alt="Node" title="Node" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
